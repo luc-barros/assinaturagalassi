@@ -1,0 +1,8 @@
+{
+  "name": "Assinatura de Email",
+  "description": "Gerador e exportador de imagem de assinatura de email corporativa personalizada para o Galassi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
