@@ -5,7 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
-    base: './', // <-- Adicione esta linha aqui
+    base: '/assinaturagalassi/', 
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
